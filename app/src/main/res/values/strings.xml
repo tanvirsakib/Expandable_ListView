@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Expandable ListView</string>
+    <string-array name="list_header">
+        <item>Bangladesh</item>
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>New Zeland</item>
+        <item>England</item>
+        <item>South Africa</item>
+        <item>West Indies</item>
+        <item>Afganistan</item>
+        <item>Srilanka</item>
+        <item>Ireland</item>
+        <item>Zimbabwa</item>
+    </string-array>
+
+    <string-array name="list_child">
+        <item>Bangladesh literally meaning The country of Bengal), officially called the Peoples Republic of Bangladesh (গণপ্রজাতন্ত্রী বাংলাদেশ Bangladesh), is a country in South Asia.</item>
+        <item>Pakistan,[b] officially the Islamic Republic of Pakistan,[c] is a country in South Asia. It is the worlds fifth-most populous country with a population exceeding 212.2 million.</item>
+        <item>India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia.</item>
+        <item>Australia, officially the Commonwealth of Australia,[12] is a sovereign country comprising the mainland of the Australian continent,</item>
+        <item>New Zealand (Māori: Aotearoa [aɔtɛaɾɔa]) is a sovereign island country in the southwestern Pacific Ocean.</item>
+        <item>England is a country that is part of the United Kingdom.[7][8][9] It shares land borders with Wales to the west and Scotland to the north. </item>
+        <item>South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa.</item>
+        <item>The West Indies is a region of the North Atlantic Ocean and the Caribbean.</item>
+        <item>Afghanistan (/æfˈɡænɪstæn, æfˈɡɑːnɪstɑːn/ (About this soundlisten); Pashto/Dari: افغانستان, Pashto: Afġānistān [avɣɒnisˈtɒn, ab-],[a] Dari: Afġānestān [avɣɒnesˈtɒn]), officially the Islamic Republic of Afghanistan, is a landlocked country situated at the confluence of Western, Central, and Southern Asia.</item>
+        <item>Sri Lanka (UK: /sri ˈlæŋkə, ʃriː -/, US: /- ˈlɑːŋkə/ (About this soundlisten);[8][9] Sinhala: ශ්‍රී ලංකා Śrī Laṃkā; Tamil: இலங்கை Ilaṅkai), officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia</item>
+        <item>Ireland (/ˈaɪərlənd/ (About this soundlisten); Irish: Éire [ˈeːɾʲə] (About this soundlisten); Ulster-Scots: Airlann [ˈɑːrlən]) is an island in the North Atlantic.</item>
+        <item>Zimbabwe (/zɪmˈbɑːbweɪ, -wi/), officially the Republic of Zimbabwe, formerly Rhodesia,[13] is a landlocked country located in Southern Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa, Botswana, Zambia and Mozambique.</item>
+    </string-array>
+</resources>
